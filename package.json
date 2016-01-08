@@ -31,6 +31,6 @@
     "typeset": "~0.1.6"
   },
   "devDependencies": {
-    "metalsmith": "~2.1.0",
+    "metalsmith": "~2.1.0"
   }
 }
