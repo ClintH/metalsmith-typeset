@@ -1,0 +1,36 @@
+{
+  "name": "metalsmith-typeset",
+  "version": "0.0.1",
+  "description": "A Metalsmith plugin to enhance typography with Typeset.js",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clinth/metalsmith-typeset.git"
+  },
+  "contributors": [
+    "Anton Zhiyanov"
+  ],
+  "keywords": [
+    "metalsmith",
+    "typography",
+    "typeset",
+    "punctuation"
+  ],
+  "author": {
+    "name": "Clint Heyer",
+    "email": "clint@thestaticvoid.net",
+    "url": "http://thestaticvoid.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clinth/metalsmith-typeset/issues"
+  },
+  "homepage": "https://github.com/clinth/metalsmith-typeset",
+  "dependencies": {
+    "debug": "~0.7.4",
+    "typeset": "~0.1.6"
+  },
+  "devDependencies": {
+    "metalsmith": "~2.1.0",
+  }
+}
