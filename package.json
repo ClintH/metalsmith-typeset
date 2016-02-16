@@ -28,7 +28,7 @@
   "homepage": "https://github.com/clinth/metalsmith-typeset",
   "dependencies": {
     "debug": "~0.7.4",
-    "typeset": "~0.1.6"
+    "typeset": "~0.2.1"
   },
   "devDependencies": {
     "metalsmith": "~2.1.0"
