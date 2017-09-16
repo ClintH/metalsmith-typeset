@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-typeset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Metalsmith plugin to enhance typography with Typeset.js",
   "main": "lib/index.js",
   "repository": {
